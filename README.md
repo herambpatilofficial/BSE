@@ -18,3 +18,15 @@ This code returns information and advice of
 all BSE stocks in a single click!
 The file of stock codes is given in this repository
 as BSE.csv
+
+# How to use?
+In your terminal,
+
+first run 
+`pip install bsedata`
+
+Now run,
+`pip install numpy`
+
+Now run 
+`pip install pandas`
