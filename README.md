@@ -69,7 +69,7 @@ Now run
   'upperPriceBand': '2706.95',
   'weightedAvgPrice': '2239.58'
 
-# Using the phrases in ' ' with getQuote gives that specific information about the stock.
+### Using the phrases in ' ' with getQuote gives that specific information about the stock.
 
 
 ## Top Gainers
@@ -84,7 +84,7 @@ Now run
    'scripCode': '538835',
    'securityID': 'INTELLECT'}
 
-# Top Gainers return the information in ''
+### Top Gainers return the information in ''
 
 ## Top Losers
 {'LTP': '82.05',
@@ -98,7 +98,7 @@ Now run
    'scripCode': '500111',
    'securityID': 'RELCAPITAL'}
 
-# Top Losers return the information in ''
+### Top Losers return the information in ''
 
 
 ## Period Trend data
