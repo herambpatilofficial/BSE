@@ -1,6 +1,6 @@
 #This code can be used to get full information about the stock
 from bsedata.bse import BSE
-
+#BSE refers to Bombay Stock Exchange
 b = BSE()
 
 
